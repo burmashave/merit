@@ -58,8 +58,6 @@ module Merit
   class RankAttributeNotDefined < StandardError; end
 
   class Engine < Rails::Engine
-    config.app_generators.orm Merit.orm
-
     initializer 'merit.controller' do |app|
       extend_orm_with_has_merit
       ActiveSupport.on_load(action_controller_hook) do
