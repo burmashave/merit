@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="ambry (v1.0.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara (v3.25.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coveralls (v0.8.23, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="docile (v1.3.2, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.7.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="marcel (v0.3.3, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest-rails (v5.2.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mocha (v1.9.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.0.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.72.0, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.10.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.16.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.10.2, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.2.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="term-ansicolor (v1.7.1, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, rbenv: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, rbenv: 2.5.3) [gem]" level="application" />
+  </component>
+</module>
